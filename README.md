@@ -21,6 +21,19 @@
 
 ---
 
+### 🚀 Featured Projects
+
+| Project | Tech Stack | Highlights |
+|---|---|---|
+| [**Nothing-Link**](https://github.com/Hrishikeshnihal/Nothing-Link) | Kotlin, ADB, Scrcpy, Shizuku | Ultra-low latency 120 FPS wireless screen mirroring, remote hotspot activation & automated unlock for Nothing OS devices. |
+| [**PromptEase AI**](https://github.com/Hrishikeshnihal/promptEaseAI) | React, Vite, Express, Gemini, Groq, Ollama | Multi-model AI app transforming natural language prompts into live React + Tailwind components in an interactive sandbox. |
+| [**Hostel Management**](https://github.com/Hrishikeshnihal/hostel-management) | Flutter, Dart, Firestore, GLSL Shaders | Full-stack resident management app with dual-persistence (Cloud Firestore + zero-data-loss local JSON fallback) & GPU shaders. |
+| [**Instagram Architecture**](https://github.com/Hrishikeshnihal/codershub) | HTML5, CSS3, JavaScript | Interactive technical exhibition visualizer breaking down Instagram's microservices, caching, load balancing & WebSockets. |
+| [**Task Manager**](https://github.com/Hrishikeshnihal/Task-manager-) | Vanilla JS, CSS Glassmorphism | Aesthetic dark-mode task planner with native HTML5 Drag & Drop reordering, smart due-date analytics, and LocalStorage. |
+| [**Campus Tea Releases**](https://github.com/Hrishikeshnihal/campustea-releases) | Android, APK Distribution | Production release portal and changelog repository for the Campus Tea Android mobile application. |
+
+---
+
 ### Tech Stack
 
 <div align="center">
@@ -50,7 +63,7 @@
   <img width="100%" src="https://github-readme-activity-graph.ashutosh-dwivedi0710.workers.dev/graph?username=Hrishikeshnihal&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
 </div>
 
-
+---
 
 ### Connect
 
