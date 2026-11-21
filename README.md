@@ -1,12 +1,12 @@
 <!-- Header Wave Banner (capsule-render) -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hrishikesh%20Nihal&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineering%20Student%20%7C%20Systems%2C%20Backend%20%26%20Local%20AI&descAlignY=58&descSize=16" alt="Hrishikesh Nihal Header" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hrishikesh%20Nihal&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineering%20Student%20%7C%20Systems%2C%20Backend%20and%20Local%20AI&descAlignY=58&descSize=16" alt="Hrishikesh Nihal Header" />
 </div>
 
 <!-- Typing Intro (readme-typing-svg) -->
 <div align="center">
   <a href="https://github.com/Hrishikeshnihal">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Building+systems%2C+backend+%26+Android+tools;Exploring+local-first+AI+%26+open+source;SY+B.Tech+Computer+Engineering+%7C+Pune%2C+India" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Building+systems%2C+backend+and+Android+tools;Exploring+local-first+AI+and+open+source;SY+B.Tech+Computer+Engineering+%7C+Pune%2C+India" alt="Typing SVG" />
   </a>
 </div>
 
